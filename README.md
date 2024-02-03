@@ -21,6 +21,8 @@ See the Food Ordering Website in action with the [live preview here].
 Technologies Used
 HTML
 CSS
+
+
 Get Started
 Enhance your restaurant's online presence and streamline the food ordering process for your customers. Use this template as a foundation and customize it to fit your specific needs.
 
