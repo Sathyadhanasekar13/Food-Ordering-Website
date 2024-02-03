@@ -18,7 +18,7 @@ Order Confirmation:
 Users receive clear and concise order confirmations, including estimated delivery times.
 
 Preview
-See the Food Ordering Website in action with the [live preview here].
+See the Food Ordering Website in action with the [ https://sathyadhanasekar13.github.io/Food-Ordering-Website/].
 
 
 
