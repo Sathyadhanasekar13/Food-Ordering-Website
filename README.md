@@ -1,4 +1,5 @@
-Food Ordering Website
+                                                 Food Ordering Website
+
 Welcome to the GitHub repository for the Food Ordering Website, a dynamic and user-friendly platform for placing food orders online. This project is built using HTML and CSS, providing an intuitive interface for customers to explore menus and seamlessly place orders.
 
 Overview
